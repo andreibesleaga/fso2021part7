@@ -1,1 +1,3 @@
-# fso2021part7
+# FSO 2021 Part 7
+
+React router, custom hooks, styling app with CSS and webpack
