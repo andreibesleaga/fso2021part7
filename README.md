@@ -1,3 +1,3 @@
-# FSO 2021 Part 7
+# Full Stack Open 2021 - Part 7
 
 React router, custom hooks, styling app with CSS and webpack
